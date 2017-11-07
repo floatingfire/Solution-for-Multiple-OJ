@@ -1,1 +1,1 @@
-"# Solution-for-Multiple-OJ" 
+# Solution-for-Multiple-OJ
